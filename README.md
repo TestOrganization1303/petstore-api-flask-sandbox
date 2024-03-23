@@ -1,5 +1,5 @@
 
-# Petstore AP1122
+# Petstore AP1122w
 
 ```
 docker build -t petstore .
